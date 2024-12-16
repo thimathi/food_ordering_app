@@ -25,7 +25,7 @@ The **Food Ordering App** is a mobile application developed in Kotlin for Androi
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/thimathi/FoodOrderingApp.git
+   git clone https://github.com/thimathi/food_ordering_app.git
    ```
 2. Open the project in Android Studio.
 3. Sync the Gradle files to download dependencies.
